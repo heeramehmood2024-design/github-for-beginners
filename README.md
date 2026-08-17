@@ -12,3 +12,6 @@ if num2 != 0:
     print("Division:", num1 / num2)
 else:
     print("Cannot divide by zero")
+
+
+[Read my full article on Medium](https://medium.com/@heeramehmood2024/github-for-beginners-what-is-it-and-why-is-it-useful-46bc6a058285?postPublishedType=initial)
